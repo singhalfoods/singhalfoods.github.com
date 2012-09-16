@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Singhal Foods
+title: SURYA Cattle Feed
 tagline: Manufacturer of ISI Marked Cattle Feed
 ---
 {% include JB/setup %}
